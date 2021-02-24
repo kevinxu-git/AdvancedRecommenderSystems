@@ -5,3 +5,4 @@ The purpose of this project is to implement a location-based recommender system 
 
 + [The paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.814&rep=rep1&type=pdf)
 
+A Jupyter Notebook containing the implemention is provided
